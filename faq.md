@@ -21,3 +21,5 @@ Mme Prensier fournit des cours de rédaction de lettre de motivation et de CV en
 Cette lettre peut être réalisée par vos professeurs, prenez soin de choisir un professeur en bonne entente avec vous.
 
 * _J'ai besoin d'un justificatif de la maîtrise de la langue anglaise !_
+
+Mme Prensier, votre professeur d'anglais, est en mesure de vous fournir ce justificatif.
