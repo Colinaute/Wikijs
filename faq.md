@@ -4,9 +4,9 @@
 
 Avant la date de fin du visa et la date de fin de stage. **Il faut aussi s'accorder avec les professeurs sur la date de la soutenance du stage**.  
 
-* _Que mettre dans les champs "Durée effective du stage en nombre d'heures", "Nombre de jours de travail hebdomadaires", "Nombre d'heures hebdomadaires" dans ma convention de stage ?
+* _Que mettre dans les champs "Durée effective du stage en nombre d'heures", "Nombre de jours de travail hebdomadaires", "Nombre d'heures hebdomadaires" dans ma convention de stage ?_
 
-
+L'oganisme vous accueillant en stage doit être en mesure de remplir ces champs.
 
 * _Comment faut-il s'organiser pour les bourses JASSO (stage au Japon) ?_
 
