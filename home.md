@@ -1,7 +1,6 @@
 ![Logo Projet](/uploads/logo-projet.png "Logo Projet")
-| Pages        |            | Cool  |
+| Pages        |            |         |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-[FAQ](/faq)
+| [FAQ](/faq)    | right-aligned | $1600 |
+| [Témoignage](/témoignage)      | centered      |   $12 |
+| [About](/about) | are neat      |    $1 |
