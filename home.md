@@ -1,4 +1,4 @@
-![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne")# FAQ
+# FAQ![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne")
 
 * _A quelle date dois-je retourner en France ?_
 
