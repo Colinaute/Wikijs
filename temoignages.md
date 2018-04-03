@@ -1,3 +1,5 @@
+# ![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne") Réponses aux questions récurrentes concernant les stages ou semestres à l'étranger
+
 ##Alexis
 Quel est ton cursus scolaire ?
 2015-2016 : 	Bac S SVT
