@@ -1,1 +1,1 @@
-### Ce mini-site a été réalisé par l'équipe des fumiers composée de : Bemben Nicolas, Cuvillier Damien, Demory Adam, Peugnet Colin, Rebours Erwan
+>  Ce mini-site a été réalisé par l'équipe des fumiers composée de : Bemben Nicolas, Cuvillier Damien, Demory Adam, Peugnet Colin, Rebours Erwan
