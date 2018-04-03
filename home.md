@@ -16,10 +16,6 @@ dans ma convention de stage ?
 
 
 
--
-
-
-
 * _Comment faut-il s'organiser pour les bourses JASSO (stage au Japon) ?_
 
 
