@@ -1,4 +1,4 @@
-# FAQ ![Petit Log](/uploads/petit-log.png "Petit Log"=100x20)
+# FAQ ![Petit Log](/uploads/petit-log.png=100x20)
 
 * _A quelle date dois-je retourner en France ?_
 
