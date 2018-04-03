@@ -22,11 +22,7 @@ dans ma convention de stage ?
 
 * _Comment adapter mon cv et ma lettre de motivation à mon pays d'accueil ?_
 
-Mme Prensier fourni des cours de rédaction de lettre de motivation et
-
-de CV en Anglais durant le DUT2, elle peut donc vous fournir de bon conseils
-
-ou simplement un avis sur vos rédactions en Anglais. [Vous pouvez également trouver de bons conseils sur ce site](http://www.dimension-emploi.com/cv-postuler-a-l-etranger/35)
+Mme Prensier fourni des cours de rédaction de lettre de motivation et de CV en Anglais durant le DUT2, elle peut donc vous fournir de bon conseils ou simplement un avis sur vos rédactions en Anglais. [Vous pouvez également trouver de bons conseils sur ce site](http://www.dimension-emploi.com/cv-postuler-a-l-etranger/35)
 
 
 
