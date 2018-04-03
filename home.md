@@ -2,5 +2,5 @@
 | Pages        |
 | ------------------------------|
 | [FAQ](/faq) |
-| [Témoignage](/témoignage) |
+| [Témoignage](/temoignage) |
 | [About](/about)  |
