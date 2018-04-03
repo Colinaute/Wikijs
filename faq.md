@@ -1,6 +1,6 @@
 # ![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne") Réponses aux questions récurrentes concernant les stages ou semestres à l'étranger
 
- ##Avant de partir
+## Avant de partir
 
 ### Y aura-t-il une réunion avec les parents ?
 
