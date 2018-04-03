@@ -3,4 +3,4 @@
 | ------------------------------|
 | [FAQ](/faq) |
 | [Témoignage](/temoignage) |
-| [](/about)  |
+| [A propos](/a-propos)  |
