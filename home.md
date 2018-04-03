@@ -6,7 +6,7 @@
 
 
 
--Avant la date de fin du visa et la date de fin de stage. **Il faut aussi s'accorder avec les professeurs sur la date de la soutenance du stage**.  
+Avant la date de fin du visa et la date de fin de stage. **Il faut aussi s'accorder avec les professeurs sur la date de la soutenance du stage**.  
 
 
 
@@ -24,13 +24,9 @@ dans ma convention de stage ?
 
 
 
--
-
-
-
 * _Comment adapter mon cv et ma lettre de motivation à mon pays d'accueil ?_
 
--Mme Prensier fourni des cours de rédaction de lettre de motivation et
+Mme Prensier fourni des cours de rédaction de lettre de motivation et
 
 de CV en Anglais durant le DUT2, elle peut donc vous fournir de bon conseils
 
@@ -45,8 +41,6 @@ linguistiques, technologiques et de mise en application
 afin de demander l'accès à une bourse, que faire ?_
 
 
-
--
 
 
 
