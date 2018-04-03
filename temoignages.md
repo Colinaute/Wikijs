@@ -1,4 +1,4 @@
-##Alexis
+## Alexis
 Quel est ton cursus scolaire ?
 2015-2016 : 	Bac S SVT
 2016-2018 : 	DUT informatique à l'IUT Lens
@@ -12,7 +12,7 @@ Quels sont tes attentes par rapport à ce stage à l'étranger ?
 Auras-tu un soutien financier pour ton voyage ?
 " J’aurais des soutiens financiers, les bourses 'normales' et les bourses de voyages comme la bourse 'Ledoux'. "
 
-##Antoine 
+## Antoine 
 Etudiant en 2ème année de DUT Informatique, qui lui, va effectuer son semestre 4 au Canada :
 Pourquoi as-tu choisi de partir à l'étranger ?
 J'ai choisi de partir à l'étranger pour apporter un plus à mon CV et découvrir une nouvelle façon de voir et de comprendre l'informatique via une culture différente. Un étudiant ayant fait un séjour à l'étranger durant ses études est privilégié en entreprise, surtout quand on veut, comme moi, travailler à l'étranger plus tard.
@@ -51,7 +51,7 @@ Encore aujourd'hui, ils ont un peu de mal à digérer tout ça. Mais je sais que
 Tu vas réussir ? Tu es motivé ?
 Bien sûr, je suis plus que jamais motivé à aller jusqu'au bout de cette aventure. J'ai déjà fait le plus dur (la paperasse), maintenant je n'ai plus qu'à profiter de ce moment dans l'hiver rude du Canada.
 
-##Nicolas
+## Nicolas
 Dans quel pays êtes-vous parti ? Et pourquoi ?
     • Je suis parti au Japon pendant 3 mois pour effectuer mon stage en 2016. J’ai décidé de partir là-bas car j’aime leur culture, la langue ...
 Quelles langues avez-vous utilisé lors de votre stage ?
@@ -67,7 +67,7 @@ Comment avez-vous vécu là-bas ?
 Avez-vous rencontré d'autres problèmes divers ?
     • Mise à part la barrière de la langue avec les personnes âgées qui ne parlaient pas forcément anglais ni français, je n'ai eu aucun problème majeur.
 		
-##Vincent
+## Vincent
 Quelles sont tes motivations en tant qu’étudiant de partir à l’étranger ?
 " Mes motivations sont ma volonté:
 - De voyager 
@@ -102,7 +102,7 @@ Que penses-tu avoir acquis/ développé lors de ta rentrée de ce voyage ? (Auto
 - Une nouvelle manière de travailler (méthode plus Américaine que la nôtre) 
 - Belle expérience à l'étranger "
 
-##Loïck
+## Loïck
 Loïck a obtenu son DUT Informatique au sein de l'IUT de Lens dans lequel il a, lors de son 3ème semestre, effectué un stage à l'étranger au Japon. 
 Avant le stage 
 Quel a été ton parcours d’étude ? 
@@ -124,7 +124,7 @@ Après le stage
 Qu’est-ce que cette expérience t’a apportée ? 
 Une meilleure compréhension de la culture japonaise. J'ai pu aussi me faire de nombreux contacts, que je vois toujours. N'hésitez pas une seconde, c'est vraiment une expérience qu'on ne peut pas faire 2 fois ! ;) 
 
-##Bilal
+## Bilal
 Bilal El Hadad est un étudiant en première année de DUT informatique à l'IUT de Lens et il aimerait partir à l'étranger pour effectuer un semestre.
 Ou voudrais tu partir ?
 J'aimerais partir soit au Canada, soit au Japon
@@ -137,7 +137,7 @@ Oui pour le moment je n'envisage qu'un seul semestre.
 Qu'est ce qui te motive pour partir à l'étranger ?
 Découvrir une nouvelle culture et de nouveaux paysages mais surtout sortir de mon train de vie quotidien, de mon cocon.
 
-##Vincent
+## Vincent
 Vous hésitez à partir à l'étranger ou ne comprenez pas l'intérêt ?
 Voici le témoignage de Vincent actuellement en DUT2, parti étudier au Québec.
 Explique ta situation en quelques mots 
@@ -164,7 +164,7 @@ Et dernière question, as-tu oublié des affaires, si oui lesquels ?
 Je juge ne rien avoir oublié pour l’instant. Un conseil pour ceux qui partent : n’oubliez pas des vêtements chauds. La semaine dernière, j’ai eu des températures descendant 
 
 
-##Arnaud
+## Arnaud
 Quelle a été la destination de votre semestre à l’étranger ?
 Pour réaliser mon semestre à l’étranger, j’ai choisi la destination de Larissa en Grèce. J’ai choisi cette destination car c’est le pays que je trouvais le plus attractif. 
 Dans quel état d’esprit étais-tu avant de partir ?
@@ -178,7 +178,7 @@ Nous avons fait le trajet en avion. Puis une fois arrivé un responsable nous a 
 Selon toi quels bénéfices un semestre à l’étranger peut-il apporter ?
 Pour moi ce voyage m’a permis d’améliorer mon anglais. Il m’a permis de faire beaucoup de rencontre. J’ai aussi beaucoup appris de la culture Grecque et je suis revenus avec pleins de souvenirs. Cette expérience est aussi en plus dans mon CV qui m’aidera beaucoup plus tard. Pour finir je conseil à tout le monde les semestres à l’étrangers. C’est une expérience incroyable !
 
-##Loïc 
+## Loïc 
 Où se déroule votre stage et en quoi consiste-t-il ?
 Ja ferais mon stage en Pologne, à l'école Warsaw Polytechnic, Varsovie. Ce stage consiste à réaliser un site Web sous le framework Laravel, avec comme tuteur de projet un chercheur polonais, le projetme sera plus détaillé une fois que je serais sur place.
 Qu'attendez-vous de ce stage ?
