@@ -1,5 +1,7 @@
 # ![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne") Réponses aux questions récurrentes concernant les stages ou semestres à l'étranger
 
+ ##Avant de partir
+
 ### Y aura-t-il une réunion avec les parents ?
 
 Il y a des réunions qui sont organisées régulièrement au sein de l'IUT.
@@ -13,6 +15,32 @@ Nous vous conseillons de convertir votre argent avant de partir auprès de votre
 ### La carte bancaire française fonctionne-t-elle à l'étranger ?
 
 Oui, les cartes bancaires françaises fonctionnent à l'étranger mais il peut y avoir des frais bancaires (il faut voir avec votre banque). De plus, il peut y avoir des frais des banques locales lorsque vous retirez de l'argent à un distributeur de billets.
+
+
+### Faut-il une carte vitale internationale ?
+
+Pour les stages en Europe, il faut demander une carte européenne d’assurance maladie auprès de votre caisse d'assurance maladie.
+
+Pour les stages hors d'Europe, vous devrez régler vos frais médicaux sur place. Pensez à conserver les prescriptions, les factures et les justificatifs de paiement afin de les transmettre à votre caisse d'assurance maladie à votre retour.
+
+
+### Quels vêtements prendre ?
+
+Tout dépend de la région du monde où vous irez. Généralement vous faites votre stage entre avril et août, prévoyez donc des vêtements de "printemps" ainsi que des vêtements d'été pour la fin de votre stage.
+
+Prenez aussi une ou deux tenues améliorées, au cas où votre employeur vous invite au restaurant, ...
+
+
+
+### Faut-il une assurance spéciale ?
+
+Il existe des assurances pour les étudiants à l'étranger qui assurent :
+
+* Frais médicaux
+
+* Les bagages
+
+* ...
 
 ## Quel est le coût de la vie sur place ?
 ### Combien coûte la nourriture ?
@@ -45,11 +73,7 @@ Tout dépend de votre destination et de votre personnalité. En effet il faut se
 
 Pour l'aller, on vous conseille d'arriver quelques jours avant le début de votre stage afin de vous installer correctement et de vous acclimater à ce nouveau pays (surtout s'il y a un décalage horaire important).
 
-### Quels vêtements prendre ?
 
-Tout dépend de la région du monde où vous irez. Généralement vous faites votre stage entre avril et août, prévoyez donc des vêtements de "printemps" ainsi que des vêtements d'été pour la fin de votre stage.
-
-Prenez aussi une ou deux tenues améliorées, au cas où votre employeur vous invite au restaurant, ...
 
 ### Y a-t-il des aides financières ?
 
@@ -85,25 +109,7 @@ Dans tous les autres pays, un passeport sera est obligatoire.
 
 
 
-### Faut-il une carte vitale internationale ?
 
-Pour les stages en Europe, il faut demander une carte européenne d’assurance maladie auprès de votre caisse d'assurance maladie.
-
-Pour les stages hors d'Europe, vous devrez régler vos frais médicaux sur place. Pensez à conserver les prescriptions, les factures et les justificatifs de paiement afin de les transmettre à votre caisse d'assurance maladie à votre retour.
-
-
-
-
-
-### Faut-il une assurance spéciale ?
-
-Il existe des assurances pour les étudiants à l'étranger qui assurent :
-
-* Frais médicaux
-
-* Les bagages
-
-* ...
 
 
 
