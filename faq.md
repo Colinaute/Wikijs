@@ -4,55 +4,30 @@
 
 Il y a des réunions qui sont organisées régulièrement au sein de l'IUT.
 
-
-
-
-
 ### Combien faut-il prévoir d'argent ?
 
 Tout dépend de ce que vous pouvez mettre, prenez un peu de liquide tout de même .
 
 Nous vous conseillons de convertir votre argent avant de partir auprès de votre banque afin d'éviter les frais de conversion.
 
-
-
-
-
 ### La carte bancaire française fonctionne-t-elle à l'étranger ?
 
 Oui, les cartes bancaires françaises fonctionnent à l'étranger mais il peut y avoir des frais bancaires (il faut voir avec votre banque). De plus, il peut y avoir des frais des banques locales lorsque vous retirez de l'argent à un distributeur de billets.
 
-
-
-
-
 ## Quel est le coût de la vie sur place ?
-
-
-
 ### Combien coûte la nourriture ?
 
 Le prix de la nourriture varie selon les pays. On vous conseille de manger local car c'est souvent moins cher et c'est un bon moyen de découvrir le pays et sa culture.
 
-
-
-
-
-### Ou sera-t-il hébergé ?
+### Où serais-je hébergé ?
 
 Dans certains stages à l'étranger, l'employeur propose un hébergement mais si ce n'est pas le cas, c'est à vous de le trouver. Par exemple, vous pouvez louer un appartement, comme sur https://www.airbnb.fr/ ou via une agence immobilière du pays.
 
 Si vous avez le budget, vous pouvez aussi prendre un chambre d'hôtel près de votre lieu de stage.
 
-
-
 ### Quel transport prendre ? (avion, bateau)
 
-
-
 Tout dépend de votre destination et de votre budget, mais prendre l'avion peut être idéal surtout si vous partez dans un pays lointain, notamment au niveau du temps de trajet.
-
-
 
 ### Comment avoir des billets d'avion moins chers ?
 
@@ -60,33 +35,15 @@ On vous conseille de partir en semaine plutôt que le week-end car les billets s
 
 Pour un pays lointain, un vol direct sera souvent plus cher qu'un vol avec escale.
 
-Il existe de nombreux comparateurs de prix de vol d'avion comme https://www.voyagespirates.fr/reservation/vol, Expedia ou encore https://www.google.fr/flights qui sont très efficaces.
-
-
-
-
-
-
-
-
+Il existe de nombreux comparateurs de prix de vol d'avion comme [voyages pirates](https://www.voyagespirates.fr/reservation/vol), Expedia ou encore [google flights](https://www.google.fr/flights) qui sont très efficaces.
 
 ### Comment cela va-t-il se passer ?
 
 Tout dépend de votre destination et de votre personnalité. En effet il faut se plier aux règles et coutumes du pays pour s'adapter au mieux au quotidien. Pour plus d'informations veuillez vous référer aux cours de communication de DUT Informatique De Madame Membré sur les langages et échanges interculturels.
 
-
-
-
-
 ### Date de départ et d'arrivée ? (pour réserver avion)
 
-
-
 Pour l'aller, on vous conseille d'arriver quelques jours avant le début de votre stage afin de vous installer correctement et de vous acclimater à ce nouveau pays (surtout s'il y a un décalage horaire important).
-
-
-
-
 
 ### Quels vêtements prendre ?
 
@@ -94,31 +51,17 @@ Tout dépend de la région du monde où vous irez. Généralement vous faites vo
 
 Prenez aussi une ou deux tenues améliorées, au cas où votre employeur vous invite au restaurant, ...
 
-
-
-
-
-
-
-
-
-
-
 ### Y a-t-il des aides financières ?
 
 Il existe quelques bourses que vous pouvez toucher comme par exemple:
 
-* la bourse Ledoux (/https://www.fondationdefrance.org/fr/fondation/fondation-pierre-ledoux-jeunesse-internationale)
+*[la bourse Ledoux](https://www.fondationdefrance.org/fr/fondation/fondation-pierre-ledoux-jeunesse-internationale)
 
-* la bourse Erasmus + (/https://www.ef.fr/erasmus/programme/administrative-process/)
-
-
+*[ la bourse Erasmus +](https://www.ef.fr/erasmus/programme/administrative-process/)
 
 (Voir avec le Responsable des Relations Internationales)
 
-
-
-Nous vous conseillons de lire ce site : http://www.etudiant.gouv.fr/cid96349/bourses-etudes-etranger.html
+Nous vous conseillons également de lire [ce site.](http://www.etudiant.gouv.fr/cid96349/bourses-etudes-etranger.html)
 
 
 
