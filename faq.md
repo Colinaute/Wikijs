@@ -1,4 +1,4 @@
-# Réponses aux questions récurrentes concernant les stages ou semestres à l'étranger![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne")
+# ![Petit Log Redimensionne](/uploads/petit-log-redimensionne.png "Petit Log Redimensionne") Réponses aux questions récurrentes concernant les stages ou semestres à l'étranger
 
 * _A quelle date dois-je retourner en France ?_
 
