@@ -1,5 +1,5 @@
 ![Logo Projet](/uploads/logo-projet.png "Logo Projet")
-| Tables        | Are           | Cool  |
+| Pages        |            | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
